@@ -1,22 +1,11 @@
 ## Hi there
 
-I am Huzaifa Farooq, a Full Stack Developer with a growing focus on AI, Machine Learning, and Data Science.  
-I work with JavaScript, Python, React, Next.js, Node.js, Express, and React Native, and I am actively learning ML algorithms and data analysis techniques.
+I am Huzaifa Farooq, a Full Stack Developer with hands-on experience in building web and mobile applications using the MERN stack, React Native, and modern backend technologies.  
+I am also an active learner in **Artificial Intelligence, Machine Learning, and Data Science**, working with Python tools such as NumPy, Pandas, Matplotlib, and Plotly to understand data-driven systems and ML fundamentals.
 
-### What I am currently working on
-- Full Stack MERN applications  
-- Machine Learning fundamentals  
-- Data analysis projects using Python (NumPy, Pandas, Matplotlib)
+My work involves building scalable systems, integrating APIs, designing efficient architectures, and continuously improving performance and reliability across applications.
 
-### What I am currently learning
-- Supervised and unsupervised ML models  
-- Data visualization and feature engineering  
-- API engineering and real-time system design
-
-### What I am open to
-- Full Stack Development roles  
-- AI/ML trainee or internship roles  
-- Collaboration on MERN, Python, or data projects
+---
 
 ### GitHub Streak & Insights
 
